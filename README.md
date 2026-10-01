@@ -3,8 +3,9 @@
 
 ## General Information
 
-This repo contains the data to reproduce the analysis in our submission
-for MIT Sloan Sports Analytics Conference 2027
+This repository contains the data required to reproduce the analyses
+presented in our submission to the MIT Sloan Sports Analytics Conference
+2027.
 
 ## License
 
