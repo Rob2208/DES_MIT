@@ -3,9 +3,15 @@
 
 ## General Information
 
-This repository contains the data required to reproduce the analyses
-presented in our submission to the MIT Sloan Sports Analytics Conference
-2027.
+This repository contains a description of the data and provides access to the datasets required to reproduce the analyses presented in our submission to the MIT Sloan Sports Analytics Conference 2027.
+
+## Dataset access
+
+Due to the size of the datasets, the data files are not hosted directly in this GitHub repository.
+
+The datasets required to reproduce the analyses can be accessed at the following link:
+
+[Click here to access the data](https://drive.google.com/drive/folders/1HZcvxo2JMTSAbIYN3lLH5D_fqyCm-G05?usp=sharing)
 
 ## Dataset description
 
